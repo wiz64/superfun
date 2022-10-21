@@ -1,0 +1,30 @@
+{
+  "name": "superfun",
+  "version": "1.0.0",
+  "description": "fun api for jokes, memes, facts, trivia and more",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wiz64/superfun.git"
+  },
+  "keywords": [
+    "superfun",
+    "jokes",
+    "api",
+    "memes",
+    "trivia",
+    "facts"
+  ],
+  "author": "wiz64",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/wiz64/superfun/issues"
+  },
+  "homepage": "https://github.com/wiz64/superfun#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
