@@ -11,6 +11,8 @@ async function start(){
 // save joke to database/ichd/<current_year>/<current_month>.json file
 // if joke is not null, save it to database
 if(joke){
+    // remove status property from joke object
+    delete joke.status;
     // save joke to database
     // get current month
     var date = new Date();
@@ -52,7 +54,7 @@ if(joke){
 
         json.push(joke);
         // stringify json
-        var stringified = JSON.stringify(json,null,4);
+        var stringified = JSON.stringify(json,null,1);
         // write to file
         fs.writeFileSync(filename, stringified);
     } }
