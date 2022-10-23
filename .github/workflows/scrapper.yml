@@ -1,0 +1,22 @@
+name: Scrap Ten Jokes everyday
+
+on:
+  schedule:
+    - cron : "59 04 * * *"
+  workflow_dispatch:
+jobs:
+  update_and_push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Setup Node
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16.x'
+      - name: setup npm and scrap
+        run: |
+          npm install
+          node scrap.js 10
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Daily Scrapper
