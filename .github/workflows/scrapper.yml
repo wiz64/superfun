@@ -1,8 +1,9 @@
 name: Scrap Ten Jokes everyday
-
+# run scrap.js to add new jokes everyday to the database
 on:
   schedule:
-    - cron : "59 04 * * *"
+    - cron : "10 05 * * *"
+    # run at 5:10 AM UTC Everyday
   workflow_dispatch:
 jobs:
   update_and_push:
@@ -10,13 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Setup Node
-      - uses: actions/setup-node@v3
+        uses: actions/setup-node@v3
         with:
           node-version: '16.x'
-      - name: setup npm and scrap
+
+      - name: Setup node modules
         run: |
           npm install
           node scrap.js 10
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Daily Scrapper
+          commit_message: Daily Scrap
