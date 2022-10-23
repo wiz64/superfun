@@ -2,7 +2,7 @@ name: Scrap Ten Jokes everyday
 # run scrap.js to add new jokes everyday to the database
 on:
   schedule:
-    - cron : "10 05 * * *"
+    - cron : "15 05 * * *"
     # run at 5:10 AM UTC Everyday
   workflow_dispatch:
 jobs:
