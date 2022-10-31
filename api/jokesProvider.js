@@ -2,8 +2,8 @@
 var fs = require('fs');
 var path = require('path');
 
-var joke_paths = ['database/ichd'];
-// number is 1 by default, if not specified
+// var joke_paths = get full path to ../database/ichd
+var joke_paths = [path.join(__dirname, '../database/ichd')];
 
 function getRandom(numberOfJokes = 1) {
 // scan all subdirectories recursively for .json files and prepare a list of all files ending with .json
