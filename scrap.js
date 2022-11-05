@@ -22,15 +22,11 @@ if(joke){
     // get current year
     // get current month
     // check if file exists
-    var filename = "./database/ichd/"+year+"/"+month+".json";
+    var filename = "./database/ichd/jokes-file.json";
     // if ichd, year or month folder does not exist create it
     if (!fs.existsSync("./database/ichd/")){
         fs.mkdirSync("./database/ichd/");
     }
-    if (!fs.existsSync("./database/ichd/"+year)){
-        fs.mkdirSync("./database/ichd/"+year);
-    }
-
     // if file does not exist create it
     if(!fs.existsSync(filename)){
         // create file
@@ -40,8 +36,10 @@ if(joke){
         //file exists
         // read file
         var file = fs.readFileSync(filename);
+        var original_file = file;
         // parse file
         var json = JSON.parse(file);
+
         // add joke to json
         // if joke id already exists in json, do not add it
         var exists = false;
@@ -55,8 +53,10 @@ if(joke){
         json.push(joke);
         // stringify json
         var stringified = JSON.stringify(json,null,1);
-        // write to file
-        fs.writeFileSync(filename, stringified);
+        if(stringified != original_file){
+            // write file
+            fs.writeFileSync(filename, stringified);
+        }else { start(); }
     } }
   } }
   start();
