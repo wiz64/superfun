@@ -7,7 +7,8 @@ res.setHeader('Content-Type', 'application/json');
 res.send(`{"message": "Welcome ! SuperFun api serves you fun things like Jokes, Memes, Trivia, Facts and More. Please check Documentation",
 "status": "Online", "author":"wiz64",
 "github": "https://github.com/wiz64/superfun",
-"forJokes":"/jokes/:number"} `);
+"forJokes":"/jokes/:number",
+"forPunchJokes":"/punchjokes/:number"} `);
 })
 function serveJokes(req, res) {
     // get number from url
