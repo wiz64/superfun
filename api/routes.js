@@ -23,6 +23,24 @@ function serveJokes(req, res) {
     // log request ip, number ok jokes, time
     console.log(`Request from ${req.ip} for ${number} jokes at ${new Date()}`);
 };
+function servePunchJokes(req,res) {
+     // get number from url
+     var number = req.params.number;
+     if(!number || number < 0){
+         number = 1;
+     }
+     var jokes = jokesProvider.getRandomPunch(number);
+     // send json response to browser with jokes
+     res.setHeader('Content-Type', 'application/json');
+     res.send(jokes);
+     //console.log(jokes);
+     // log request ip, number ok jokes, time
+     console.log(`Request from ${req.ip} for ${number} Punch jokes at ${new Date()}`);
+    
+}
 router.get('/jokes', serveJokes);
 router.get('/jokes/:number', serveJokes);
+router.get('/punchjokes', servePunchJokes);
+router.get('/punchjokes/:number', servePunchJokes);
+
 module.exports = router
