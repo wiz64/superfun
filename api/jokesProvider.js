@@ -6,12 +6,18 @@ var fetch = require('node-fetch');
 
 // var joke_paths = get full path to ../database/ichd
 var joke_paths = [path.join(__dirname, '../database/ichd')];
-var punchjoke_paths = [path.join(__dirname, '../database/davidkatz')];
+var punchjoke_paths =  ['database/davidkatz'];
 
 // if jokes.json file does not exist inside punchjoke_paths, download it from https://github.com/15Dkatz/official_joke_api/raw/master/jokes/index.json
-
-if(!fs.existsSync(path.join(__dirname, '../database/davidkatz'))){
-    fs.mkdirSync(path.join(__dirname, '../database/davidkatz'));
+if(app_config.serverless){
+    punchjoke_paths = [path.join('/tmp', punchjoke_paths[0])];
+    // create /tmp/database if not exists
+    if (!fs.existsSync(path.join('/tmp', 'database'))){
+    fs.mkdirSync(path.join('/tmp', 'database'));
+    }
+} else {punchjoke_paths = [path.join(__dirname, punchjoke_paths[0])];}
+if(!fs.existsSync(punchjoke_paths[0])){
+    fs.mkdirSync(punchjoke_paths[0]);
 }
 if(!fs.existsSync(path.join(punchjoke_paths[0], 'jokes.json'))){
     // download file 

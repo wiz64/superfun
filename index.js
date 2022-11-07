@@ -1,7 +1,9 @@
 // express hello world
 var express = require('express');
 var app = express();
-
+global.app_config = {
+    serverless : true
+}
 var PORT = 3000;
 var api =  require('./api/routes.js');
 
