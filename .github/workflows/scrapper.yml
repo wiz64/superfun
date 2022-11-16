@@ -2,8 +2,8 @@ name: Scrap Ten Jokes everyday
 # run scrap.js to add new jokes everyday to the database
 on:
   schedule:
-    - cron : "15 05 * * *"
-    # run at 5:10 AM UTC Everyday
+    - cron : "10 05 * * *"
+    # run at 510 AM UTC Everyday
   workflow_dispatch:
 jobs:
   update_and_push:
@@ -16,9 +16,13 @@ jobs:
           node-version: '16.x'
 
       - name: Setup node modules
+        env:
+          API_NINJAS_API_KEY : ${{ secret.API_NINJAS_API_KEY }}
+        
         run: |
           npm install
           node scrap.js 10
+          node scrap.js facts 10
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Daily Scrap
