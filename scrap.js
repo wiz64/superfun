@@ -1,8 +1,16 @@
 const ichd = require('./scrappers/ichd');
 const fs = require('fs');
+const api_ninjas_facts = require('./scrappers/api-ninjas-facts');
 
-var number =  process.argv.slice(2)[0];
+var task = process.argv.slice(2)[0];
+var number =  process.argv.slice(2)[1];
 if(number == undefined){number = 1;}
+// if task is an integer, then it is the number of jokes
+if(!isNaN(task)){
+    number = task;
+    task = 'jokes';
+}
+if(task == 'jokes'){
 console.log("Number of jokes to scrap: "+number);
 for (i = 0; i < number; i++) {
 async function start(){
@@ -60,4 +68,55 @@ if(joke){
     } }
   } }
   start();
+}}
+// if task is facts then scrap facts
+if (task == 'facts') {
+    console.log("Number of facts to scrap: "+number);
+    
+    async function start(){
+        
+        var fact = await api_ninjas_facts.getFacts(number);
+    // if joke is not null, save it to database
+    if(fact){
+    
+        // check if file exists
+        var filename = "./database/api-ninjas/facts.json";
+        // if ichd, year or month folder does not exist create it
+        if (!fs.existsSync("./database/api-ninjas/")){
+            fs.mkdirSync("./database/api-ninjas/");
+        }
+        // if file does not exist create it
+        if(!fs.existsSync("./database/api-ninjas/facts.json")){
+            // create file
+            fs.writeFileSync("./database/api-ninjas/facts.json", '[]');
+        }
+        // merge facts with existing facts such that no fact is repeated with the same id
+         // read file
+         var file = fs.readFileSync(filename);
+         var original_file = file;
+         // parse file
+         var json = JSON.parse(file);
+            // add fact to json
+            // if fact id already exists in json, do not add it
+                // for each fact in fact
+                for (i = 0; i < fact.length; i++) {
+            var exists = false;
+        
+            for (j = 0; j < json.length; j++) {
+                if(json[j].id == fact[i].id){
+                    console.log("fact is "+fact)
+                    exists = true;
+                }
+            }
+            if(!exists){
+            json.push(fact[i]);
+            // stringify json
+            var stringified = JSON.stringify(json,null,1);
+            if(stringified != original_file){
+                // write file
+                fs.writeFileSync(filename, stringified);
+                    }else { start(); }
+
+                }}
+    }}start();
 }
