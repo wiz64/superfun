@@ -1482,5 +1482,45 @@
  {
   "fact": "The first TV commercial advertisement was by the Bulova Watch company on July 1, 1941. The watch company paid $9.00 for an announcement that was 10 seconds long",
   "id": "anfact-0b43793eced25c2ace0bc13fa152f256"
+ },
+ {
+  "fact": "The Taj Mahal was actually built for use as a tomb",
+  "id": "anfact-a0ea126c29a2478d7f68982ef7e31c26"
+ },
+ {
+  "fact": "The San Francisco Cable cars are the only mobile National Monuments",
+  "id": "anfact-a58a1ae53ba00c7e92a23790a9364a68"
+ },
+ {
+  "fact": "Ironically, when doctors in Los Angeles, California went on strike in 1976, the daily number of deaths in the city dropped 18%",
+  "id": "anfact-b77b957af3b3fea30bf97f5871445569"
+ },
+ {
+  "fact": "The name Aspirin was invented from \"A\" in acetyl chloride. The \"spir\" comes from spiraea ulmaria which is the plant that they got the salicylic acid from, and the \"in\" was used because back then it was popular to end the name of medicines with \"in.\"",
+  "id": "anfact-23e3b415fce2fc01652e38930528585e"
+ },
+ {
+  "fact": "Hockey pucks were originally made from frozen cow dung",
+  "id": "anfact-7347660c106090ddbc72fb3e16bd1a6d"
+ },
+ {
+  "fact": "A barnacle has the largest penis of any other animal in relation to its size",
+  "id": "anfact-b8a86706ff24b0b0129ff362416bdf45"
+ },
+ {
+  "fact": "Roses generally need around 6 hours of sunlight to grow properly.",
+  "id": "anfact-99ab7d254b136b7c606edd279ccb3b5f"
+ },
+ {
+  "fact": "There are approximately 2000 thunderstorms that are active at the same time which results in 100 lightning flashes a second.",
+  "id": "anfact-2de1c216dd4406fe0151abc4398f43e6"
+ },
+ {
+  "fact": "The Barbie doll has more than 80 careers",
+  "id": "anfact-985f7dfc384d107bb15448bee573ddf9"
+ },
+ {
+  "fact": "Blueberries have more antioxidents than any other fruit or vegetables",
+  "id": "anfact-e7dcfe5a03af3211a70fc3f1ae10c487"
  }
 ]
