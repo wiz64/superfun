@@ -1782,5 +1782,41 @@
  {
   "fact": "Goats do not have upper front teeth",
   "id": "anfact-8eaa918e90c8c02dac45c11ea578b27d"
+ },
+ {
+  "fact": "The \"Mexican Hat Dance\" is the official dance of Mexico",
+  "id": "anfact-83b3fe5bacd534884e7a851d0e4bd0ad"
+ },
+ {
+  "fact": "\"Dreamt\" is the only English word that ends in the letters \"mt\"",
+  "id": "anfact-d93f3dcc73df7a3a71120ae3d97bb814"
+ },
+ {
+  "fact": "Leaving the water running while brushing your teeth can waste four gallons of water in a minute",
+  "id": "anfact-996805ae6fe816e909f5d8c898d17896"
+ },
+ {
+  "fact": "Buttermilk does not contain any butter, but is a cultured milk product which is usually made from fat free milk",
+  "id": "anfact-67b7d167e773f23541b15d05ed8eb6b7"
+ },
+ {
+  "fact": "In 1894 the first big Coke sign was found on the side of a building located in Cartersville, Georgia, and still exists today",
+  "id": "anfact-c63567dd59577202ae7527d1435e4eb8"
+ },
+ {
+  "fact": "The human liver performs over 500 functions",
+  "id": "anfact-971e1d57fa780ecbd80a9dc6b5e42fc9"
+ },
+ {
+  "fact": "The tallest mammal in the world is the giraffe",
+  "id": "anfact-88015c4f8db2a0815ecf3d4dceb0e7e0"
+ },
+ {
+  "fact": "Earthworms have 5 hearts",
+  "id": "anfact-bc115b51e039fb6745a8c56d1967164b"
+ },
+ {
+  "fact": "In the great fire of London in 1666 half of London was burnt down but only 6 people were injured",
+  "id": "anfact-755711b5e50174b520c9d54eb28a4e5c"
  }
 ]
