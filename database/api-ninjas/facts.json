@@ -3050,5 +3050,25 @@
  {
   "fact": "People who meet their calcium need reduce their risk of developing kidney stones",
   "id": "anfact-4cd8f220d1c7ac92ccac124e30b41dd0"
+ },
+ {
+  "fact": "A dime has 118 ridges around the edge",
+  "id": "anfact-c96a9e69460e21635c7eebdad9ee1e62"
+ },
+ {
+  "fact": "On average, there is about three molecules of ozone for every 10 million air molecules.",
+  "id": "anfact-5536d8c71fec2b86cd8c5b827876d633"
+ },
+ {
+  "fact": "A Hungarian named Ladislo Biro invented the first ballpoint pen in 1938.",
+  "id": "anfact-3479c1637aa08461d1ebd8e654ac5071"
+ },
+ {
+  "fact": "Arabic numerals were not invented by Arabs, but were invented in India by the Hindus",
+  "id": "anfact-f5101b0ef41f1d8a44600b12926e5a9c"
+ },
+ {
+  "fact": "In 1783, the hot air balloon was invented in France.",
+  "id": "anfact-719664dbf74bbe72e5069025a4602749"
  }
 ]
