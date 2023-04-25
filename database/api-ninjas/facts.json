@@ -4290,5 +4290,25 @@
  {
   "fact": "It is physically impossible for pigs to look up into the sky",
   "id": "anfact-2441610c86fca0b99e5e5a9c49ee80fc"
+ },
+ {
+  "fact": "Polar bears are left handed",
+  "id": "anfact-cd7b77930651108386afc337d26a4370"
+ },
+ {
+  "fact": "Approximately 25% of all scald burns to children are from hot tap water and is associated with more deaths than with any other liquid",
+  "id": "anfact-b6d825f695faca20a209d2a5108192b2"
+ },
+ {
+  "fact": "Odontophobia is the fear of teeth",
+  "id": "anfact-e9870ab588a04a2b8c50e443b6c35fcd"
+ },
+ {
+  "fact": "Approximately 200 pets are buried in a pet cemetery out of the thousands of pets that die each day",
+  "id": "anfact-35fc1657f86588ca55943df6f2681385"
+ },
+ {
+  "fact": "Many hamsters only blink one eye at a time",
+  "id": "anfact-e01a3190c2338383a1c77096ed80083a"
  }
 ]
