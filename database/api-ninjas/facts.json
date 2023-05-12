@@ -4714,5 +4714,17 @@
  {
   "fact": "On average, Americans eat one hundred acres of pizza a day. This amounts to about three hundred fifty slices per second",
   "id": "anfact-e20ea7cab01d55746d84e56189c41016"
+ },
+ {
+  "fact": "When a polar bear cub is born, it can not see or hear. It takes approximately a month for the cub to start to see and hear",
+  "id": "anfact-adf6159bc2dc25ccaaee822c250e3224"
+ },
+ {
+  "fact": "In the United States, ice cream is sold the most on a Sunday",
+  "id": "anfact-fffa111224931c62eecf25eb4ffe37a4"
+ },
+ {
+  "fact": "James Buchanan was the only unmarried president of the United States",
+  "id": "anfact-a09851cf9df65811f3dccb1058c9e039"
  }
 ]
