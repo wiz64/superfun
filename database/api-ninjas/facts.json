@@ -4882,5 +4882,21 @@
  {
   "fact": "The eye of a human can distinguish 500 shades of the gray",
   "id": "anfact-dc1b39884504e1054631394b84f8f4c4"
+ },
+ {
+  "fact": "Penguins can jump as high as 6 feet in the air",
+  "id": "anfact-14992f630e961f9a8ea38555ad31de2e"
+ },
+ {
+  "fact": "The age of a saguaro cactus is calculated by its height",
+  "id": "anfact-b2392c230ed323f056e5a42aedbdb342"
+ },
+ {
+  "fact": "A cat has 32 muscles in each ear",
+  "id": "anfact-31040296ba8e03adb0042cf6688d8f25"
+ },
+ {
+  "fact": "Lake Nicaragua boasts the only fresh-water sharks in the entire world",
+  "id": "anfact-9cf6f1fcd1231b23a41eba4e2491c669"
  }
 ]
