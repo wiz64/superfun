@@ -5270,5 +5270,9 @@
  {
   "fact": "Polar bears are excellent swimmers. They have been known to swim more than 60 miles without a rest",
   "id": "anfact-7eaa6d1f11271336a2c82da02fc4284e"
+ },
+ {
+  "fact": "The eyeball of a human weighs approximately 28 grams",
+  "id": "anfact-f67dacccc0f687fd3d58a58c0c4ccd7d"
  }
 ]
