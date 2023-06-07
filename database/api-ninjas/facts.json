@@ -5274,5 +5274,33 @@
  {
   "fact": "The eyeball of a human weighs approximately 28 grams",
   "id": "anfact-f67dacccc0f687fd3d58a58c0c4ccd7d"
+ },
+ {
+  "fact": "Chinese Crested dogs can get acne",
+  "id": "anfact-e57d2b0e916a5b8b6c305249b6a8fbcb"
+ },
+ {
+  "fact": "An earthquake on Dec. 16, 1811 caused parts of the Mississippi River to flow backwards",
+  "id": "anfact-ccc5744d8edb8da8afaa5e761f3b4363"
+ },
+ {
+  "fact": "American women, on average, spend 55 minutes per day getting showered, dressed, and groomed",
+  "id": "anfact-c2ce6e8d6c1c88c6fdabe8e3eea25934"
+ },
+ {
+  "fact": "In ancient Egypt, the only person who was allowed to wear cotton was the High Priest",
+  "id": "anfact-5ce8da83c6331a6ed6a1d91f545968b0"
+ },
+ {
+  "fact": "In 1657, the first chocolate house was opened in London, England",
+  "id": "anfact-cb99c0e399a440ad37bc3298faef2337"
+ },
+ {
+  "fact": "Leonardo Da Vinci invented the scissors",
+  "id": "anfact-a7173d73dae762df9b87f748b5805754"
+ },
+ {
+  "fact": "1 out of 350,000 Americans get electrocuted in their life",
+  "id": "anfact-0ad0f4fb79cfa1814314151f305a5c1d"
  }
 ]
