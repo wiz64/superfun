@@ -5302,5 +5302,33 @@
  {
   "fact": "1 out of 350,000 Americans get electrocuted in their life",
   "id": "anfact-0ad0f4fb79cfa1814314151f305a5c1d"
+ },
+ {
+  "fact": "Three years after a person quits smoking, there chance of having a heart attack is the same as someone who has never smoked before",
+  "id": "anfact-1da54f36dae819211dfd8e81c0b2ddcc"
+ },
+ {
+  "fact": "The average cow produces about 2,305 gallons of milk each year",
+  "id": "anfact-75be3ec28ca311735d9799521227cf23"
+ },
+ {
+  "fact": "Every three seconds a baby is born somewhere in the world",
+  "id": "anfact-c66b96042994e1ee7cc91906f231f058"
+ },
+ {
+  "fact": "The Hawaiian alphabet only has 12 letters",
+  "id": "anfact-5464628ca843db9537155c668e4dc419"
+ },
+ {
+  "fact": "During World War II, condoms were used to cover rifle barrels from being damaged by salt water as the soldiers swam to shore",
+  "id": "anfact-3392e00e803d98fb44ca8e2833b5070c"
+ },
+ {
+  "fact": "The odds of having quadruplets are 1 in 729,000",
+  "id": "anfact-a72629d623d020eaaaf8bc65eb862366"
+ },
+ {
+  "fact": "The spray WD-40 got its name because there were forty attempts needed before the creation of the \"water displacing\" substance",
+  "id": "anfact-58237051f6cefb9e62c571121ea67a7f"
  }
 ]
