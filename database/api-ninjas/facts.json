@@ -5630,5 +5630,25 @@
  {
   "fact": "Montreal is the second largest French speaking city after Paris",
   "id": "anfact-1f52878d5e30e603cdae881b971f23f4"
+ },
+ {
+  "fact": "The all-time most nominated Grammy artist with 77 nominations is Quincy Jones",
+  "id": "anfact-8b7b17d21760a18ae1a4fb596bf54ec1"
+ },
+ {
+  "fact": "Women on average live seven years longer than men do",
+  "id": "anfact-79c89b2a2db185ee2d3d9d8060a342f1"
+ },
+ {
+  "fact": "Every year Alaska has about 5,000 earthquakes, 1,000 of which measure above 3.5 on the Richter scale",
+  "id": "anfact-697206ff30e72206e824bfc1f1899e07"
+ },
+ {
+  "fact": "Coca-Cola was originally green",
+  "id": "anfact-14e688c04c58fb26e23b629dd67dc310"
+ },
+ {
+  "fact": "Nutmeg is extremely poisonous if injected intraveinously.",
+  "id": "anfact-55792b486e85a94d79c9f52919255ee5"
  }
 ]
