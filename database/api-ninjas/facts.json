@@ -6518,5 +6518,13 @@
  {
   "fact": "Birds do not sweat, as they do not have sweat glands",
   "id": "anfact-c384d39db93abfa9207278f656e973d4"
+ },
+ {
+  "fact": "Jupiter is the fastest rotating planet, which can complete one revolution in less than ten hours",
+  "id": "anfact-5e49f13b7690f736434834c5afb236b5"
+ },
+ {
+  "fact": "Doctors in Canada use an adhesive similar to Krazy Glue instead of stitches, lowering the possibility of bacterial infection and minimizing scarring",
+  "id": "anfact-8955c04a6db7930f998596ec463ec826"
  }
 ]
