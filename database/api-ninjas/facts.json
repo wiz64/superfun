@@ -6590,5 +6590,21 @@
  {
   "fact": "In the U.S., 75% of the pencils sold are painted yellow",
   "id": "anfact-927990f1af8c785000ff68aa296a5972"
+ },
+ {
+  "fact": "Thomas Edison, the inventor of the light bulb was afraid of the dark",
+  "id": "anfact-82f2a05c9a40f41aa2d21c0e1e5fbe8b"
+ },
+ {
+  "fact": "The first words that Thomas A. Edison spoke into the phonograph were, \"Mary had a little lamb.\"",
+  "id": "anfact-28a27784e78280fcfb7c8cf4f3dd84a6"
+ },
+ {
+  "fact": "The plastic things on the end of shoelaces are called aglets",
+  "id": "anfact-ce19257d266b948c70d83bc2c6244066"
+ },
+ {
+  "fact": "Automobile building is the largest manufacturing industry in the world.",
+  "id": "anfact-cddfd1a2ac7bb62f63afbfdcdd345899"
  }
 ]
