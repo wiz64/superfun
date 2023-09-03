@@ -7094,5 +7094,21 @@
  {
   "fact": "A blink lasts approximately 0.3 seconds",
   "id": "anfact-23ed5999b2dd528d85fa989b3d220c39"
+ },
+ {
+  "fact": "No piece of paper can be folded in half more than 7 times",
+  "id": "anfact-8035313a7127440231e1f421329ff52b"
+ },
+ {
+  "fact": "There are approximately 45 billion fat cells in an average adult",
+  "id": "anfact-3a101a958da13c07000d44a21362ff0b"
+ },
+ {
+  "fact": "The adult electric eel can produce a five hundred volt shock, which is enough to stun a horse",
+  "id": "anfact-dacc3ea3e63ca5114c8a9bc8c7e31020"
+ },
+ {
+  "fact": "A slug has four noses",
+  "id": "anfact-c4cf07dff24367a01663c0ed43047468"
  }
 ]
