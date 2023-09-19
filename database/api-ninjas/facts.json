@@ -7314,5 +7314,13 @@
  {
   "fact": "The story of Rudolph the Red-Nosed Reindeer was written in 1939 for a store promotion by an advertising employee of the department store Montgomery Ward",
   "id": "anfact-fd2af368f69c7bee13c9dc49ffcc8aa7"
+ },
+ {
+  "fact": "Fear of clowns is called coulrophobia",
+  "id": "anfact-85540f4b729a6fac557bdf7637241203"
+ },
+ {
+  "fact": "The purpose of tonsils is to destroy foreign substances that are swallowed or breathed in",
+  "id": "anfact-ed66d62e4688a4491f52cf9e7d2d1428"
  }
 ]
