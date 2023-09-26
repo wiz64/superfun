@@ -7390,5 +7390,13 @@
  {
   "fact": "In the 1985 Boise, Idaho mayoral election, there were four write-in votes for Mr. Potato Head",
   "id": "anfact-f35851d8fbb60cddb4a32d4c2218918d"
+ },
+ {
+  "fact": "The chocolate chip cookie was invented in 1933",
+  "id": "anfact-74d6dec654e95ee39c6d1e75c7061342"
+ },
+ {
+  "fact": "A duck’s quack doesn’t echo, and no one knows why",
+  "id": "anfact-aa19f599b5d00dabccc404d19f1f5c81"
  }
 ]
