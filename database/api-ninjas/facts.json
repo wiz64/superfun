@@ -7398,5 +7398,13 @@
  {
   "fact": "A duck’s quack doesn’t echo, and no one knows why",
   "id": "anfact-aa19f599b5d00dabccc404d19f1f5c81"
+ },
+ {
+  "fact": "Average number of people airborne over the US any given hour: 61,000",
+  "id": "anfact-f67a76a08008827471ce4fc1a2932eb5"
+ },
+ {
+  "fact": "The only two days of the year in which there are no professional sports games (MLB, NBA, NHL, or NFL) are the day before and the day after the Major League all-stars Game",
+  "id": "anfact-8482e3a30cf7414b23d14fe47609d87d"
  }
 ]
