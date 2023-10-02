@@ -7478,5 +7478,9 @@
  {
   "fact": "The city of Las Vegas has the most hotel rooms in the world",
   "id": "anfact-d48356798dd70304248f86afe6f104d5"
+ },
+ {
+  "fact": "The word Lethologica describes the state of not remembering the word you want to say",
+  "id": "anfact-628c23251ceaa7d709993eac3e26ee8f"
  }
 ]
