@@ -7510,5 +7510,17 @@
  {
   "fact": "Marilyn Monroe had six toes",
   "id": "anfact-0aa5cd61e510c1624732ef78600a6197"
+ },
+ {
+  "fact": "The speed at which honey bees fly is at 15 miles per hour",
+  "id": "anfact-7a9165fb1a09fb66374b686755c886d3"
+ },
+ {
+  "fact": "Approximately three jars of peanut butter are sold every second",
+  "id": "anfact-38edde6fd20d6b908ee900967339eb75"
+ },
+ {
+  "fact": "Keeping your car tuned up is a good way to save on gas. A car that is tuned up is 9% more efficient on gasoline.",
+  "id": "anfact-4365a0a9f60b59082a3e2e806827d4a9"
  }
 ]
