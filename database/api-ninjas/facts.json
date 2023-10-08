@@ -7566,5 +7566,17 @@
  {
   "fact": "The Popsicle was invented by 11 year-old Frank Epperson in 1905. He left his drink outside with a stir stick in it and he noticed that it had frozen. He applied for a patent in 1923 and named it \"Epsicle.\" The name was later changed to Popsicle",
   "id": "anfact-f0c753266b37421d877f9c760e4e6df4"
+ },
+ {
+  "fact": "In 1693, the postage rate of a letter was determined by how much light went through the letter. The less the light went through the letter the more expensive the rate would be. This technique was referred to as candling",
+  "id": "anfact-9cf336eefa760e2ad930bdceee820c75"
+ },
+ {
+  "fact": "The first known American novelist to hand in a manuscript that was typed was Mark Twain. His typewriter was a Remington No.1, which was invented by Christopher Sholes and Carlos Glidden.",
+  "id": "anfact-5890f499875d0b6673e6e7b7108d48d8"
+ },
+ {
+  "fact": "A pregnant goldfish is called a twit",
+  "id": "anfact-7087cd8938002ca5328b0d4de1e55267"
  }
 ]
