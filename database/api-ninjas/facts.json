@@ -7626,5 +7626,13 @@
  {
   "fact": "Ants do not sleep",
   "id": "anfact-83eb3cef96008865ec28565a2055f142"
+ },
+ {
+  "fact": "To tell if a egg is fully cooked or raw, just spin it. If the egg wobbles then it is still raw, and if it easily spins it is fully cooked",
+  "id": "anfact-38babdc6a3c9de7145f317bf563257cc"
+ },
+ {
+  "fact": "Teflon is the most slipperiest substance in the world",
+  "id": "anfact-83d8c2448d8d926e74e7e91f58436567"
  }
 ]
