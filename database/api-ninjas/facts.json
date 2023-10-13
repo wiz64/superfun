@@ -7634,5 +7634,13 @@
  {
   "fact": "Teflon is the most slipperiest substance in the world",
   "id": "anfact-83d8c2448d8d926e74e7e91f58436567"
+ },
+ {
+  "fact": "Every continent has a city called Rome",
+  "id": "anfact-07c5f47ba0843fa9d9d0e657f76cfeb5"
+ },
+ {
+  "fact": "A person that is struck by lightning has a greater chance of developing motor neurone disease",
+  "id": "anfact-128779e0a4b310ac07b9ec1448e3a29e"
  }
 ]
