@@ -7642,5 +7642,21 @@
  {
   "fact": "A person that is struck by lightning has a greater chance of developing motor neurone disease",
   "id": "anfact-128779e0a4b310ac07b9ec1448e3a29e"
+ },
+ {
+  "fact": "William Taft who was the U.S. president between 1909-1913 once got stuck in the White House bathtub",
+  "id": "anfact-a3dc783ad0cca9c4ae3cac30a9dd1c2a"
+ },
+ {
+  "fact": "Approximately 40% of the U.S. paper currency in circulation was counterfeit by the end of the Civil War",
+  "id": "anfact-80fd5cfed059cbd13ee2f2e2e3a497cd"
+ },
+ {
+  "fact": "Pretzel snacks have been around for over 1300 years. A European monk invented the snack using used leftover bread dough",
+  "id": "anfact-ac3ba22c0d2485be498eed53183d331c"
+ },
+ {
+  "fact": "There are mirrors on the moon. Astronauts left them so that laser beams could be bounced off of them from Earth. These beams help give us the distance to the moon give or take a few metres.",
+  "id": "anfact-9aca21a87d0b3959e83d2180d51768bc"
  }
 ]
