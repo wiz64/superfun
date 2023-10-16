@@ -7674,5 +7674,17 @@
  {
   "fact": "A one kilogram packet of sugar will have about 5 million grains of sugar",
   "id": "anfact-8e6828e2e33696c61817c1ba90f9d922"
+ },
+ {
+  "fact": "The Ice Cream cone was invented in the summer of 1904 by Charles Menches. It made its debut one year later at the St. Louis World Fair",
+  "id": "anfact-9201a9f0f9f2afcc8b5565ee4e48ffd3"
+ },
+ {
+  "fact": "Cows are able to hear lower and higher frequencies better than human beings",
+  "id": "anfact-3e844e9bb201beb97e482992288987da"
+ },
+ {
+  "fact": "Hannibal, who was a soldier, had only one eye after getting a disease while attacking Rome",
+  "id": "anfact-798be855b60ba6d83e752a31b38043f1"
  }
 ]
