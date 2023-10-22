@@ -7758,5 +7758,13 @@
  {
   "fact": "There are more than 640 muscles in the human body",
   "id": "anfact-e7812fc6c6129e5ac36cbbde6815778d"
+ },
+ {
+  "fact": "Each nostril of a human being register smell in a different way. Smells that are made from the right nostril are more pleasant than the left. However, smells can be detected more accurately when made by the left nostril",
+  "id": "anfact-37885b66cede0caf410f6e02c1056a4e"
+ },
+ {
+  "fact": "The state that has the most diners in the world is New Jersey, which is referred to as the \"Diner Capital of the World.\"",
+  "id": "anfact-807fba784541bbb9048ed6f0c9f382e8"
  }
 ]
