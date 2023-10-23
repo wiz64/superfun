@@ -7766,5 +7766,13 @@
  {
   "fact": "The state that has the most diners in the world is New Jersey, which is referred to as the \"Diner Capital of the World.\"",
   "id": "anfact-807fba784541bbb9048ed6f0c9f382e8"
+ },
+ {
+  "fact": "Spiders usually have eight eyes, but still they cannot see that well",
+  "id": "anfact-5761234e19d4a8996b0e398dbc973471"
+ },
+ {
+  "fact": "Every day, over five billion gallons of water are flushed down toilets in the United States",
+  "id": "anfact-848bbf935d895ad5b0ecae2ed8f6ad79"
  }
 ]
