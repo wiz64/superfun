@@ -7794,5 +7794,17 @@
  {
   "fact": "China has more English speakers than the United States",
   "id": "anfact-2b10688080b0a07dd6ed4919f75cb876"
+ },
+ {
+  "fact": "The life expectancy of a $100 bill is nine years",
+  "id": "anfact-180e2126cb5a5bcb1d7bdc34241fe3cc"
+ },
+ {
+  "fact": "There are more pigs than humans in Denmark",
+  "id": "anfact-d31ad26e191c6f1eede977cb1ac03061"
+ },
+ {
+  "fact": "St. Patrick explained the Holy Trinity to King Laoghaire, using the shamrock to illustrate the trinity",
+  "id": "anfact-b23ec16ca6c6f4c1f83ea2670e98db71"
  }
 ]
