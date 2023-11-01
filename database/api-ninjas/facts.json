@@ -7874,5 +7874,17 @@
  {
   "fact": "The length of a human esophagus is 25 centimeters",
   "id": "anfact-2a31fa35c5aa3f52e094bf69ce21c28e"
+ },
+ {
+  "fact": "By recycling just one glass bottle, the amount of energy that is being saved is enough to light a 100 watt bulb for four hours",
+  "id": "anfact-d69c3edc56b1e6620f0c9d3933fdf9e3"
+ },
+ {
+  "fact": "The stringy thing that is seen in egg whites is called \"chalazae.\"",
+  "id": "anfact-f092800cbde4dbdf21fefa2dac85fcd0"
+ },
+ {
+  "fact": "In Johannesburg, the average car will be involved in an accident once every four years.",
+  "id": "anfact-a438b5e1233d924ec77c4d526051db00"
  }
 ]
