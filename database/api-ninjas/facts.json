@@ -7886,5 +7886,9 @@
  {
   "fact": "In Johannesburg, the average car will be involved in an accident once every four years.",
   "id": "anfact-a438b5e1233d924ec77c4d526051db00"
+ },
+ {
+  "fact": "The song \"Strawberry Fields Forever\" sung by the Beatles refers to an orphanage located in Liverpool",
+  "id": "anfact-89721dcdb6ca0bcc856c18effe69ebb2"
  }
 ]
