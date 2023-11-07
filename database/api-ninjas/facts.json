@@ -7942,5 +7942,13 @@
  {
   "fact": "The Xerox company was initially called the Haloid Company",
   "id": "anfact-f7ff2114bd17b368845ae960ab1fc60a"
+ },
+ {
+  "fact": "Banging your head against a wall uses 150 calories an hour",
+  "id": "anfact-a27c88bf62f369d7636cd5f006b227c4"
+ },
+ {
+  "fact": "The CN Tower, in Toronto, is the tallest freestanding structure in the world with a height of about 553 metres",
+  "id": "anfact-96b6fb6d6efee1c83b41a5d8a59006fa"
  }
 ]
