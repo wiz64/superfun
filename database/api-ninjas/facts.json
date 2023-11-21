@@ -8162,5 +8162,13 @@
  {
   "fact": "The official state mammal of Texas is the armadillo",
   "id": "anfact-e639d7fe40ebe60d4c5c52915f061508"
+ },
+ {
+  "fact": "In America, one out of every two marriages ends up in divorce",
+  "id": "anfact-068a46897667da4a800c41761e81bd3d"
+ },
+ {
+  "fact": "A monkey was once tried and convicted for smoking a cigarette in South Bend, Indiana",
+  "id": "anfact-4d92fffea8246f95053ea3ad528a25e7"
  }
 ]
