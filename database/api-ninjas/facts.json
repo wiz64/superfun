@@ -8258,5 +8258,9 @@
  {
   "fact": "Ho-Ho-Kus, a small town in New Jersey, is the only town in the United States of America that has two dashes in its name",
   "id": "anfact-c268caac54fbd3e657faaa04ddb3a337"
+ },
+ {
+  "fact": "Pepsi got its name from the ingredient pepsin, which is said to aid in digestion, however, it is not known",
+  "id": "anfact-8107bde97aaec9ac1f1c9570847c7f07"
  }
 ]
