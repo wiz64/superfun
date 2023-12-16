@@ -8498,5 +8498,17 @@
  {
   "fact": "The majority of cats do not have any eyelashes",
   "id": "anfact-c288cfbe0066c3e20143c434f74a1416"
+ },
+ {
+  "fact": "Even if you eat food standing on your head, the food will still end up in your stomach",
+  "id": "anfact-6692347ce65e215cdcf85c703ae50714"
+ },
+ {
+  "fact": "A cockroach can change directions up to 25 times in a second",
+  "id": "anfact-3d4e472748f792821db7c779d6df3413"
+ },
+ {
+  "fact": "Centipedes always have an uneven pairs of walking legs",
+  "id": "anfact-c7d1bef4fb72e709f367f3807fceba3a"
  }
 ]
