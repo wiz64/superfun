@@ -8554,5 +8554,13 @@
  {
   "fact": "Approximately 125 people die in the United States from an anaphylaxis to foods each year",
   "id": "anfact-5f2869dd39d067851855ab50d1a54b5b"
+ },
+ {
+  "fact": "The first owner of the Marlboro Company died of lung cancer",
+  "id": "anfact-87c26939883c7996049853646f13b675"
+ },
+ {
+  "fact": "It would take about fourteen and half million notes of currency to build a mile high stack",
+  "id": "anfact-d488a5436cbbaf9d47381e2b31889e71"
  }
 ]
