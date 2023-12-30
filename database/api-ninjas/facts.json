@@ -8634,5 +8634,9 @@
  {
   "fact": "NASCAR stands for National Association for Stock Car Auto Racing",
   "id": "anfact-c0f9d356246d4ccfad1354f462941015"
+ },
+ {
+  "fact": "The longest punt return for a touchdown was 103 yards",
+  "id": "anfact-6e783a78fbf40278fd41f0d653659dfe"
  }
 ]
