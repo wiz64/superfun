@@ -8706,5 +8706,17 @@
  {
   "fact": "The Coca Cola company offers more than 300 different beverages",
   "id": "anfact-ca874e2d4b33e4ed3449b739f721a0bc"
+ },
+ {
+  "fact": "The University of Plymouth was the first university to offer a degree in surfing",
+  "id": "anfact-bf72b65901d954a446ccf544209cb365"
+ },
+ {
+  "fact": "Pumpkins contain potassium and vitamin A",
+  "id": "anfact-f1fb9f1cae4746c6b7459c145f35207b"
+ },
+ {
+  "fact": "With winds of 50 miles per hour, The Statue of Liberty sways three inches and the torch sways five inches",
+  "id": "anfact-107bc26a0ddf18283c56855c75d53b00"
  }
 ]
