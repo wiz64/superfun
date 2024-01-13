@@ -8754,5 +8754,9 @@
  {
   "fact": "\"Go.\" is the shortest complete sentence in the English language",
   "id": "anfact-2e85daea41ecb2435d8d243dd198edab"
+ },
+ {
+  "fact": "The Christmas season begins after sunset on December 24th and lasts until January 5th. This is also known as the Twelve Days of Christmas",
+  "id": "anfact-2a2f59bfaa8ba0464df1b392d864aa67"
  }
 ]
