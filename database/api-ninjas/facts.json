@@ -8794,5 +8794,17 @@
  {
   "fact": "Polar bears can eat as much as ten percent of their body weight in less than one hour",
   "id": "anfact-c6fd3f0fe3e031e8bf09d2bc0dde6f5e"
+ },
+ {
+  "fact": "Unlike a frog a toad cannot jump",
+  "id": "anfact-e965cb938646570cf50471f95b4900db"
+ },
+ {
+  "fact": "A volcano has enough power to shoot ash as high as 50 km into the atmosphere",
+  "id": "anfact-745820b227f4084af1e93cc2bfc68951"
+ },
+ {
+  "fact": "There were 43,687 toilet related accidents in the United States in 1996",
+  "id": "anfact-a00e1111028e25a93bfcbacc7007b1c1"
  }
 ]
