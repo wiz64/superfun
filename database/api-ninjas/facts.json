@@ -8806,5 +8806,21 @@
  {
   "fact": "There were 43,687 toilet related accidents in the United States in 1996",
   "id": "anfact-a00e1111028e25a93bfcbacc7007b1c1"
+ },
+ {
+  "fact": "The sun is approximately 149 million kilometres from the earth",
+  "id": "anfact-2ed11841abdfadaa76d06a4056726bf0"
+ },
+ {
+  "fact": "There are 400 species of bacteria in the human colon",
+  "id": "anfact-b9d4b9e5fa6fb0f33cd3fa5de2811341"
+ },
+ {
+  "fact": "Montreal was named after a local mountain \"Mont Royal.\"",
+  "id": "anfact-da6a27ae37a79798efd312a49c320241"
+ },
+ {
+  "fact": "The word, tattoo originated from the Tahitain word \"tattau\" which means \"to mark.\"",
+  "id": "anfact-810e919bdbc3a53a0a89f6e69666e994"
  }
 ]
