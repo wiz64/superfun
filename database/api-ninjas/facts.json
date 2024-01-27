@@ -8906,5 +8906,13 @@
  {
   "fact": "There are more Subway restaurants in Canada than there are McDonald restaurants",
   "id": "anfact-8c6ac208697c783aaa0da28c806c30f2"
+ },
+ {
+  "fact": "Albert Einstein was offered the presidency of Israel in 1952, but he declined",
+  "id": "anfact-3633dc876d36fa62e61316159830eb16"
+ },
+ {
+  "fact": "The average US worker toils for two hours and 47 minutes of each working day just to pay income tax. Indeed, the average American pays more in taxes than for food, clothing and shelter put together",
+  "id": "anfact-ed0f68f4bc6b39f358970b023142a56b"
  }
 ]
