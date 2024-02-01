@@ -8938,5 +8938,13 @@
  {
   "fact": "The biggest religious building in the world is a Hindu Temple, Angkor Wat, located in Cambodia. It was built at the end of the 11th century",
   "id": "anfact-ddc1bfbdc358c82070bae3aaa904a445"
+ },
+ {
+  "fact": "The longest recorded flight of a chicken is thirteen seconds.",
+  "id": "anfact-6ffb0182a616a557d90d928039b2d696"
+ },
+ {
+  "fact": "Coupons were introduced in 1894 when Asa Candler bought the Coca-Cola formula for $2,300 and gave people coupons that he had written out to receive a free glass of coke",
+  "id": "anfact-f69f6fa832845eb91b4178f96b4c0fef"
  }
 ]
