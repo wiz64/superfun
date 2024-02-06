@@ -8974,5 +8974,13 @@
  {
   "fact": "There are some types of chocolates that are actually good for the arteries and heart",
   "id": "anfact-ab75faca4f929785dcf20bb4eb414fd3"
+ },
+ {
+  "fact": "The average American kid will eat approximately 1.500 peanut butter sandwiches by high school graduation",
+  "id": "anfact-df216e4578ead67129b026acbebbc57f"
+ },
+ {
+  "fact": "The sentence \"The quick brown fox jumps over the lazy dog.\" uses everyletter in the alphabet. (Developed by Western Union to Test telex/twxcommunications)",
+  "id": "anfact-44c0c693373a5e0aca2f68174861a463"
  }
 ]
