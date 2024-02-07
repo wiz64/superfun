@@ -8982,5 +8982,13 @@
  {
   "fact": "The sentence \"The quick brown fox jumps over the lazy dog.\" uses everyletter in the alphabet. (Developed by Western Union to Test telex/twxcommunications)",
   "id": "anfact-44c0c693373a5e0aca2f68174861a463"
+ },
+ {
+  "fact": "The longest human beard on record is 17.5 feet, held by Hans N. Langseth who was born in Norway in 1846",
+  "id": "anfact-a88bfb1b303968ea3d2af4907810e50a"
+ },
+ {
+  "fact": "In New York City, approximately 1,600 people are bitten by other humans annually",
+  "id": "anfact-7a255942a0224ba7cfdcebb8318c3c61"
  }
 ]
