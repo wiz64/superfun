@@ -9022,5 +9022,9 @@
  {
   "fact": "In Singapore, it is illegal to sell or own chewing gum",
   "id": "anfact-3a8986f6cc516b618b2a731ef1d93dbc"
+ },
+ {
+  "fact": "Studies indicate that listening to music is good for digestion",
+  "id": "anfact-68960ce32e8b4b1a2e312abbf3a43de7"
  }
 ]
