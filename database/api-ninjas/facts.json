@@ -9026,5 +9026,13 @@
  {
   "fact": "Studies indicate that listening to music is good for digestion",
   "id": "anfact-68960ce32e8b4b1a2e312abbf3a43de7"
+ },
+ {
+  "fact": "A cow averages 40,000 jaw movements a day",
+  "id": "anfact-88058f5ab5efd82e8b42aaf111989e58"
+ },
+ {
+  "fact": "Average life span of a major league baseball: 7 pitches",
+  "id": "anfact-33d9d9eb18cf67760419baf54f1c36ef"
  }
 ]
