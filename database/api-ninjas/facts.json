@@ -9050,5 +9050,13 @@
  {
   "fact": "In New York City there are 6,374.6 miles of streets",
   "id": "anfact-f6f2e0705649b801ffbff9f2a1fdf82c"
+ },
+ {
+  "fact": "Food can only be tasted if it is mixed with saliva",
+  "id": "anfact-e3a077c74b9f64dc3f66b90d9c8aac0b"
+ },
+ {
+  "fact": "A person who smokes a pack of cigarettes a day will on average lose two teeth every ten years",
+  "id": "anfact-f76cc99b19d2d7c1ddd874fbf1e829ac"
  }
 ]
