@@ -9078,5 +9078,17 @@
  {
   "fact": "The largest hamburger cooked in the world weighed in at 6,040 pounds",
   "id": "anfact-7f8200a1eef753b7f1adf2b09a538740"
+ },
+ {
+  "fact": "The Earth orbits the Sun at a speed of about 108,000 km per hour",
+  "id": "anfact-37a820e6438585fd68936f2faefca4e1"
+ },
+ {
+  "fact": "Every year, 50,000,000 automobiles are produced in the world.",
+  "id": "anfact-f864eb1d161272901e6d10068aaeb8f2"
+ },
+ {
+  "fact": "The watch was invented by Peter Henlein of Nuremberg in 1510.",
+  "id": "anfact-62f5919d266f4d61e089c260da197e48"
  }
 ]
