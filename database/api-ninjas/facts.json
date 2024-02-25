@@ -9158,5 +9158,9 @@
  {
   "fact": "Lemons contain more sugar than strawberries",
   "id": "anfact-c104914f3becc3929069eeb8b8298165"
+ },
+ {
+  "fact": "The game of squash originated in the United Kingdom. It came about after a few boys, who were waiting for their turn to play racquets, knocked a ball around in a confined area adjoining the racquets court",
+  "id": "anfact-41284a3fedc0d397dd754161f0b85e39"
  }
 ]
