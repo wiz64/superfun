@@ -9274,5 +9274,13 @@
  {
   "fact": "A man filed a lawsuit against his doctor because he survived longer than what the doctor had predicted",
   "id": "anfact-e93adaf8a2cb771e89897dad0e02849f"
+ },
+ {
+  "fact": "Next to bone marrow, hair is the fastest growing tissue in the human body",
+  "id": "anfact-6e1a467d340d1e3037452360aef2b8ae"
+ },
+ {
+  "fact": "The Pentagon, in Arlington, Virginia, has twice as many bathrooms as isnecessary. When it was built in the 1940s, the ste of Virginia stillhad segregation laws requiring separate toilet facilities for blacks andwhites.",
+  "id": "anfact-83d88f41d448e280ce8ff0352d019b60"
  }
 ]
