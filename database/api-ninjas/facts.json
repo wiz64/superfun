@@ -9306,5 +9306,17 @@
  {
   "fact": "Three consecutive strikes in bowling is called a turkey",
   "id": "anfact-e29884471c89f630e7413bbe6552e25e"
+ },
+ {
+  "fact": "It takes the Hubble telescope about 97 minutes to complete an orbit of the Earth. On average, the Hubble uses the equivilent amount of energy as 30 household light bulbs to complete an orbit.",
+  "id": "anfact-32dfbec94f3e54fef4c1bb7836a4ab1b"
+ },
+ {
+  "fact": "Incas used to create pots in the shape of peanuts that were highly prized",
+  "id": "anfact-9f2740829fa94405ed60a76f0552b6c8"
+ },
+ {
+  "fact": "Hydrogen is the most common atom in the universe",
+  "id": "anfact-7b939506f4b1b267b3e5c6d0a08546cc"
  }
 ]
