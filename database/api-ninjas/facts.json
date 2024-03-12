@@ -9318,5 +9318,13 @@
  {
   "fact": "Hydrogen is the most common atom in the universe",
   "id": "anfact-7b939506f4b1b267b3e5c6d0a08546cc"
+ },
+ {
+  "fact": "In France, it is illegal for a person to kiss another on railways",
+  "id": "anfact-fb5a9497fb3930a1ed44d52091a0376a"
+ },
+ {
+  "fact": "Oprah Winfrey was the first black woman to anchor a newscast in Nashville at WTVF-TV",
+  "id": "anfact-76e58f9a101679f7a478744fad42f82a"
  }
 ]
