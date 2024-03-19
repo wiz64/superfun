@@ -9382,5 +9382,13 @@
  {
   "fact": "The expression cooked \"al dente\" means \"to the tooth.\" What this means is that the pasta should be somewhat firm, and offer some resistance to the tooth, but should also be tender",
   "id": "anfact-b2a54c719eb4e9cd2ccc10ea404256cd"
+ },
+ {
+  "fact": "Every three minutes a woman is diagnosed with breast cancer",
+  "id": "anfact-23d08a3bca9cf4e2b16232a6cb937c40"
+ },
+ {
+  "fact": "In the U.S., the sport that causes the most injuries among the age group of 15-24 is basketball",
+  "id": "anfact-7c6e6732ad3bea5426d9de17fac258ae"
  }
 ]
