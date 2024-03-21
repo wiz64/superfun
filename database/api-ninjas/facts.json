@@ -9398,5 +9398,13 @@
  {
   "fact": "The Olympic torch weighs about 3 pounds",
   "id": "anfact-c589e62fa709598a20e492270d055e2b"
+ },
+ {
+  "fact": "After being picked an orange cannot ripen",
+  "id": "anfact-87d769fc24eee86a7374aa11a26018f5"
+ },
+ {
+  "fact": "JELL-O was declared The \"Official State Snack\" of Utah in January 2001",
+  "id": "anfact-4cfd713a65c0e25ced3849ac7360b1f3"
  }
 ]
