@@ -9434,5 +9434,13 @@
  {
   "fact": "The United Parcel Service shipped the killer whale Keiko (star of Disney movie \"Free Willy\") from Mexico City to Newport, Oregon in 1998",
   "id": "anfact-01b9c86cc9efc89b397727a1ec4ab0cc"
+ },
+ {
+  "fact": "Gorillas are considered apes, not monkeys. The way to distinguish between an ape and a monkey is that apes do not have tails",
+  "id": "anfact-b0398a0efabaad9ca3ad4520b8a74f18"
+ },
+ {
+  "fact": "Julie Nixon, daughter of Richard Nixon married David Eisenhower, grandson of Dwight Eisenhower",
+  "id": "anfact-c3ecffcd51ed63d1326a7f000528abb4"
  }
 ]
