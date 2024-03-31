@@ -9498,5 +9498,13 @@
  {
   "fact": "Tomato ketchup is a good conditioner for the hair. It also helps get the greenish tinge that some blonde haired people get after swimming in water with chlorine in it",
   "id": "anfact-fa05c1bfc37913509cb6f9c05d933123"
+ },
+ {
+  "fact": "Bourbon was first made by a Baptist minsister from Bourbon County in Kentucky in 1789. That is where it got its name",
+  "id": "anfact-26e56ecf1c1d65b113e9bfe2c436480f"
+ },
+ {
+  "fact": "The first British ship to use the SOS distress signal was the Titanic",
+  "id": "anfact-846d23735d64779cf38155f5e111a106"
  }
 ]
