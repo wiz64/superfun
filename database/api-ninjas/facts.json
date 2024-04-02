@@ -9518,5 +9518,9 @@
  {
   "fact": "If all the strawberries produced in California annually were put side by side, they would wrap around the Earth fifteen times",
   "id": "anfact-684616d427b9192b9e2b283ed44a8564"
+ },
+ {
+  "fact": "Every continent begins and ends in the same letter. eg AfricA, EuropE",
+  "id": "anfact-1b5e0400f5ce42a70cfcdd83f06027f7"
  }
 ]
