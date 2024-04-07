@@ -9558,5 +9558,9 @@
  {
   "fact": "The word \"dexterity\", to do with skill is related to the right hand. The opposite of the word \"deter\" is \"sinister\", to do with evil, it is related to the left hand",
   "id": "anfact-3cdcacf9080541f9ba6dd5cb176a15bd"
+ },
+ {
+  "fact": "Every 238 years, the orbits of Neptune and Pluto change making Neptune at times the farthest planet from the sun",
+  "id": "anfact-05bc7468151aae153dbe03813b83a01e"
  }
 ]
