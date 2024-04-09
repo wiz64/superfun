@@ -9566,5 +9566,21 @@
  {
   "fact": "Edward VIII did not officially become the King of England as he abdicated the throne to marry an American divorcee",
   "id": "anfact-6c6ff87c9c86157cbce6b17dfd149448"
+ },
+ {
+  "fact": "Approximately 50% of Americans admit they have ran a red light",
+  "id": "anfact-30e13f0ac63d930b01114510355a1103"
+ },
+ {
+  "fact": "The real name of Toto the dog in \"The Wizard Of Oz\" was Terry",
+  "id": "anfact-747b254bdd8bbcf37d19016dcb611b3c"
+ },
+ {
+  "fact": "The name of the Taco Bell dog is Gidget",
+  "id": "anfact-12adc6d8c92855ae4445eebd1912f686"
+ },
+ {
+  "fact": "The property (ID, Facts) VALUES on the Monopoly game board are the same today as they were in 1935",
+  "id": "anfact-2a59278f08441712753b18a95b830594"
  }
 ]
