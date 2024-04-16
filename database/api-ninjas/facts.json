@@ -9634,5 +9634,13 @@
  {
   "fact": "U.S. bills are 2.61 inches wide, 6.14 inches long, and are .0043 inches thick and weigh 1 gram",
   "id": "anfact-67305a1324a68dcfd4ae2e6e56c84b44"
+ },
+ {
+  "fact": "The only two days of the year in which there are no professional sportsgames (MLB, NBA, NHL, or NFL) are the day before and the day after theMajorLeague All-Star Game.",
+  "id": "anfact-5e5da5624763d6a4c871b67f797ab4b7"
+ },
+ {
+  "fact": "Dandelion root can be roasted and ground as a coffee substitute",
+  "id": "anfact-185fc6c54c710da1e4ef50beda43d0a1"
  }
 ]
